@@ -236,7 +236,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛ ESPERE UM POUCO AE MANO ⌛',
+				wait: '⌛ ESPERE UM POUCO TIO ⌛',
 				success: '✔️ Sucesso ✔️',
 				levelon: '❬ ✔ ❭ *Ativado leveling*',
 				leveloff: ' ❬ X ❭  *Desativado leveling*',
